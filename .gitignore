@@ -1,0 +1,10 @@
+*.o
+*.out
+*.exe
+*.obj
+*.gch
+a.out
+.DS_Store
+*.log
+.env*
+.vscode/
